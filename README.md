@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Sidharth</h1>
 <h3>Lead Research Engineer | AI/ML | Building Production-Grade Intelligent Systems</h3>
 
----
-
 ## 🧠 About Me
 
 - 🔭 Currently working at **Havells India Ltd. (CR&I)** as a **Lead Research Engineer (AI/ML)**
@@ -10,8 +8,6 @@
 - ⚙️ Experience in building **end-to-end ML systems** (from data → deployment)
 - 🚀 Currently exploring **Agentic AI, RAG systems, and LLM-powered applications**
 - 📍 Based in India
-
----
 
 ## 💻 Tech Stack:
 

@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sidharth Singh</h1>
-<h3 align="center">Lead Research Engineer | AI/ML | Building Production-Grade Intelligent Systems</h3>
+<h1>Hi 👋, I'm Sidharth</h1>
+<h3>Lead Research Engineer | AI/ML | Building Production-Grade Intelligent Systems</h3>
 
 <!--
 **Sidharth-Singh-18/Sidharth-Singh-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
